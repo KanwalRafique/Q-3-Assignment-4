@@ -1,0 +1,4 @@
+Hello, this is Lesson 10 - File Handling in Python!
+This is the second line of the file.
+This line is appended.
+Appending more content for practice.
